@@ -1,42 +1,139 @@
-var events=
+var = activitydata
+
 [
   {
-    "id": "2541160625",
+    "id": "2546182344",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
+      "id": 29936296,
+      "name": "imee12/recreate",
+      "url": "https://api.github.com/repos/imee12/recreate"
     },
     "payload": {
-      "push_id": 558124768,
+      "push_id": 560171658,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "54c71e3cc488c3dcb87de898160bcb7043bbf362",
-      "before": "61230efc054c233587bac7a963e3aafce857244d",
+      "head": "65f5c68fe04e199e8737950fa754128b14d12364",
+      "before": "dde90183e648a1fa815deaf58b8a655c7f76bbbb",
       "commits": [
         {
-          "sha": "54c71e3cc488c3dcb87de898160bcb7043bbf362",
+          "sha": "65f5c68fe04e199e8737950fa754128b14d12364",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "more edits",
+          "message": "LawdJesusitworks",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/54c71e3cc488c3dcb87de898160bcb7043bbf362"
+          "url": "https://api.github.com/repos/imee12/recreate/commits/65f5c68fe04e199e8737950fa754128b14d12364"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-28T05:03:29Z",
+    "created_at": "2015-01-29T22:03:11Z"
+  },
+  {
+    "id": "2545901839",
+    "type": "PushEvent",
+    "actor": {
+      "id": 10172157,
+      "login": "imee12",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
+    },
+    "repo": {
+      "id": 30037658,
+      "name": "imee12/DOMperignons",
+      "url": "https://api.github.com/repos/imee12/DOMperignons"
+    },
+    "payload": {
+      "push_id": 560060569,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "9c64fe9dbf8e57db3d864cba282876e3dd358cca",
+      "before": "dadd49bac230037f742fb5ae612e1ef36150e282",
+      "commits": [
+        {
+          "sha": "2e9bbaf0759567d4fb6eae8a56105949eef8c044",
+          "author": {
+            "email": "vstetter@hotmail.com",
+            "name": "Veronika"
+          },
+          "message": "add group name to readme",
+          "distinct": true,
+          "url": "https://api.github.com/repos/imee12/DOMperignons/commits/2e9bbaf0759567d4fb6eae8a56105949eef8c044"
+        },
+        {
+          "sha": "9c64fe9dbf8e57db3d864cba282876e3dd358cca",
+          "author": {
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
+          },
+          "message": "Merge pull request #1 from vstetter/master\n\nadd group name to readme yay!!!",
+          "distinct": true,
+          "url": "https://api.github.com/repos/imee12/DOMperignons/commits/9c64fe9dbf8e57db3d864cba282876e3dd358cca"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-29T20:08:28Z"
+  },
+  {
+    "id": "2545893549",
+    "type": "PushEvent",
+    "actor": {
+      "id": 10172157,
+      "login": "imee12",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
+    },
+    "repo": {
+      "id": 30031336,
+      "name": "TIY-Charleston-Front-End-Jan2015/DOMperignons",
+      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons"
+    },
+    "payload": {
+      "push_id": 560057320,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "9c64fe9dbf8e57db3d864cba282876e3dd358cca",
+      "before": "dadd49bac230037f742fb5ae612e1ef36150e282",
+      "commits": [
+        {
+          "sha": "2e9bbaf0759567d4fb6eae8a56105949eef8c044",
+          "author": {
+            "email": "vstetter@hotmail.com",
+            "name": "Veronika"
+          },
+          "message": "add group name to readme",
+          "distinct": true,
+          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/commits/2e9bbaf0759567d4fb6eae8a56105949eef8c044"
+        },
+        {
+          "sha": "9c64fe9dbf8e57db3d864cba282876e3dd358cca",
+          "author": {
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
+          },
+          "message": "Merge pull request #1 from vstetter/master\n\nadd group name to readme yay!!!",
+          "distinct": true,
+          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/commits/9c64fe9dbf8e57db3d864cba282876e3dd358cca"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-29T20:05:10Z",
     "org": {
       "id": 10147338,
       "login": "TIY-Charleston-Front-End-Jan2015",
@@ -46,42 +143,346 @@ var events=
     }
   },
   {
-    "id": "2540174829",
-    "type": "PushEvent",
+    "id": "2545893543",
+    "type": "PullRequestEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
+      "id": 30031336,
+      "name": "TIY-Charleston-Front-End-Jan2015/DOMperignons",
+      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons"
     },
     "payload": {
-      "push_id": 557731235,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "61230efc054c233587bac7a963e3aafce857244d",
-      "before": "dc39c02d85f697c261b07fb432bc4b0b4423a352",
-      "commits": [
-        {
-          "sha": "61230efc054c233587bac7a963e3aafce857244d",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+      "action": "closed",
+      "number": 1,
+      "pull_request": {
+        "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/pulls/1",
+        "id": 28309682,
+        "html_url": "https://github.com/TIY-Charleston-Front-End-Jan2015/DOMperignons/pull/1",
+        "diff_url": "https://github.com/TIY-Charleston-Front-End-Jan2015/DOMperignons/pull/1.diff",
+        "patch_url": "https://github.com/TIY-Charleston-Front-End-Jan2015/DOMperignons/pull/1.patch",
+        "issue_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/issues/1",
+        "number": 1,
+        "state": "closed",
+        "locked": false,
+        "title": "add group name to readme",
+        "user": {
+          "login": "vstetter",
+          "id": 10333720,
+          "avatar_url": "https://avatars.githubusercontent.com/u/10333720?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/vstetter",
+          "html_url": "https://github.com/vstetter",
+          "followers_url": "https://api.github.com/users/vstetter/followers",
+          "following_url": "https://api.github.com/users/vstetter/following{/other_user}",
+          "gists_url": "https://api.github.com/users/vstetter/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/vstetter/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/vstetter/subscriptions",
+          "organizations_url": "https://api.github.com/users/vstetter/orgs",
+          "repos_url": "https://api.github.com/users/vstetter/repos",
+          "events_url": "https://api.github.com/users/vstetter/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/vstetter/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "Thought I would add our group name to the readme",
+        "created_at": "2015-01-29T20:02:00Z",
+        "updated_at": "2015-01-29T20:05:10Z",
+        "closed_at": "2015-01-29T20:05:09Z",
+        "merged_at": "2015-01-29T20:05:09Z",
+        "merge_commit_sha": "865f4bad6c90f901a7296d5231cdba960bfb12b7",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/pulls/1/commits",
+        "review_comments_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/pulls/1/comments",
+        "review_comment_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/issues/1/comments",
+        "statuses_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/statuses/2e9bbaf0759567d4fb6eae8a56105949eef8c044",
+        "head": {
+          "label": "vstetter:master",
+          "ref": "master",
+          "sha": "2e9bbaf0759567d4fb6eae8a56105949eef8c044",
+          "user": {
+            "login": "vstetter",
+            "id": 10333720,
+            "avatar_url": "https://avatars.githubusercontent.com/u/10333720?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vstetter",
+            "html_url": "https://github.com/vstetter",
+            "followers_url": "https://api.github.com/users/vstetter/followers",
+            "following_url": "https://api.github.com/users/vstetter/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vstetter/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vstetter/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vstetter/subscriptions",
+            "organizations_url": "https://api.github.com/users/vstetter/orgs",
+            "repos_url": "https://api.github.com/users/vstetter/repos",
+            "events_url": "https://api.github.com/users/vstetter/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vstetter/received_events",
+            "type": "User",
+            "site_admin": false
           },
-          "message": "fix template to not have rando form element",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/61230efc054c233587bac7a963e3aafce857244d"
-        }
-      ]
+          "repo": {
+            "id": 30037659,
+            "name": "DOMperignons",
+            "full_name": "vstetter/DOMperignons",
+            "owner": {
+              "login": "vstetter",
+              "id": 10333720,
+              "avatar_url": "https://avatars.githubusercontent.com/u/10333720?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/vstetter",
+              "html_url": "https://github.com/vstetter",
+              "followers_url": "https://api.github.com/users/vstetter/followers",
+              "following_url": "https://api.github.com/users/vstetter/following{/other_user}",
+              "gists_url": "https://api.github.com/users/vstetter/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/vstetter/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/vstetter/subscriptions",
+              "organizations_url": "https://api.github.com/users/vstetter/orgs",
+              "repos_url": "https://api.github.com/users/vstetter/repos",
+              "events_url": "https://api.github.com/users/vstetter/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/vstetter/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/vstetter/DOMperignons",
+            "description": "",
+            "fork": true,
+            "url": "https://api.github.com/repos/vstetter/DOMperignons",
+            "forks_url": "https://api.github.com/repos/vstetter/DOMperignons/forks",
+            "keys_url": "https://api.github.com/repos/vstetter/DOMperignons/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/vstetter/DOMperignons/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/vstetter/DOMperignons/teams",
+            "hooks_url": "https://api.github.com/repos/vstetter/DOMperignons/hooks",
+            "issue_events_url": "https://api.github.com/repos/vstetter/DOMperignons/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/vstetter/DOMperignons/events",
+            "assignees_url": "https://api.github.com/repos/vstetter/DOMperignons/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/vstetter/DOMperignons/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/vstetter/DOMperignons/tags",
+            "blobs_url": "https://api.github.com/repos/vstetter/DOMperignons/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/vstetter/DOMperignons/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/vstetter/DOMperignons/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/vstetter/DOMperignons/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/vstetter/DOMperignons/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/vstetter/DOMperignons/languages",
+            "stargazers_url": "https://api.github.com/repos/vstetter/DOMperignons/stargazers",
+            "contributors_url": "https://api.github.com/repos/vstetter/DOMperignons/contributors",
+            "subscribers_url": "https://api.github.com/repos/vstetter/DOMperignons/subscribers",
+            "subscription_url": "https://api.github.com/repos/vstetter/DOMperignons/subscription",
+            "commits_url": "https://api.github.com/repos/vstetter/DOMperignons/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/vstetter/DOMperignons/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/vstetter/DOMperignons/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/vstetter/DOMperignons/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/vstetter/DOMperignons/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/vstetter/DOMperignons/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/vstetter/DOMperignons/merges",
+            "archive_url": "https://api.github.com/repos/vstetter/DOMperignons/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/vstetter/DOMperignons/downloads",
+            "issues_url": "https://api.github.com/repos/vstetter/DOMperignons/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/vstetter/DOMperignons/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/vstetter/DOMperignons/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/vstetter/DOMperignons/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/vstetter/DOMperignons/labels{/name}",
+            "releases_url": "https://api.github.com/repos/vstetter/DOMperignons/releases{/id}",
+            "created_at": "2015-01-29T19:39:49Z",
+            "updated_at": "2015-01-29T19:06:50Z",
+            "pushed_at": "2015-01-29T20:00:11Z",
+            "git_url": "git://github.com/vstetter/DOMperignons.git",
+            "ssh_url": "git@github.com:vstetter/DOMperignons.git",
+            "clone_url": "https://github.com/vstetter/DOMperignons.git",
+            "svn_url": "https://github.com/vstetter/DOMperignons",
+            "homepage": null,
+            "size": 0,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": null,
+            "has_issues": false,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "TIY-Charleston-Front-End-Jan2015:master",
+          "ref": "master",
+          "sha": "dadd49bac230037f742fb5ae612e1ef36150e282",
+          "user": {
+            "login": "TIY-Charleston-Front-End-Jan2015",
+            "id": 10147338,
+            "avatar_url": "https://avatars.githubusercontent.com/u/10147338?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015",
+            "html_url": "https://github.com/TIY-Charleston-Front-End-Jan2015",
+            "followers_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/followers",
+            "following_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/following{/other_user}",
+            "gists_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/subscriptions",
+            "organizations_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/orgs",
+            "repos_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/repos",
+            "events_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 30031336,
+            "name": "DOMperignons",
+            "full_name": "TIY-Charleston-Front-End-Jan2015/DOMperignons",
+            "owner": {
+              "login": "TIY-Charleston-Front-End-Jan2015",
+              "id": 10147338,
+              "avatar_url": "https://avatars.githubusercontent.com/u/10147338?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015",
+              "html_url": "https://github.com/TIY-Charleston-Front-End-Jan2015",
+              "followers_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/followers",
+              "following_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/following{/other_user}",
+              "gists_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/subscriptions",
+              "organizations_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/orgs",
+              "repos_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/repos",
+              "events_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/TIY-Charleston-Front-End-Jan2015/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/TIY-Charleston-Front-End-Jan2015/DOMperignons",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons",
+            "forks_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/forks",
+            "keys_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/teams",
+            "hooks_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/hooks",
+            "issue_events_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/events",
+            "assignees_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/tags",
+            "blobs_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/languages",
+            "stargazers_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/stargazers",
+            "contributors_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/contributors",
+            "subscribers_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/subscribers",
+            "subscription_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/subscription",
+            "commits_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/merges",
+            "archive_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/downloads",
+            "issues_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/labels{/name}",
+            "releases_url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/releases{/id}",
+            "created_at": "2015-01-29T17:10:35Z",
+            "updated_at": "2015-01-29T19:06:50Z",
+            "pushed_at": "2015-01-29T20:05:09Z",
+            "git_url": "git://github.com/TIY-Charleston-Front-End-Jan2015/DOMperignons.git",
+            "ssh_url": "git@github.com:TIY-Charleston-Front-End-Jan2015/DOMperignons.git",
+            "clone_url": "https://github.com/TIY-Charleston-Front-End-Jan2015/DOMperignons.git",
+            "svn_url": "https://github.com/TIY-Charleston-Front-End-Jan2015/DOMperignons",
+            "homepage": null,
+            "size": 0,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": null,
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 2,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 2,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/pulls/1"
+          },
+          "html": {
+            "href": "https://github.com/TIY-Charleston-Front-End-Jan2015/DOMperignons/pull/1"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/issues/1"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/issues/1/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/pulls/1/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/pulls/1/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons/statuses/2e9bbaf0759567d4fb6eae8a56105949eef8c044"
+          }
+        },
+        "merged": true,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "imee12",
+          "id": 10172157,
+          "avatar_url": "https://avatars.githubusercontent.com/u/10172157?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/imee12",
+          "html_url": "https://github.com/imee12",
+          "followers_url": "https://api.github.com/users/imee12/followers",
+          "following_url": "https://api.github.com/users/imee12/following{/other_user}",
+          "gists_url": "https://api.github.com/users/imee12/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/imee12/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/imee12/subscriptions",
+          "organizations_url": "https://api.github.com/users/imee12/orgs",
+          "repos_url": "https://api.github.com/users/imee12/repos",
+          "events_url": "https://api.github.com/users/imee12/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/imee12/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 1,
+        "additions": 1,
+        "deletions": 1,
+        "changed_files": 1
+      }
     },
     "public": true,
-    "created_at": "2015-01-27T19:58:52Z",
+    "created_at": "2015-01-29T20:05:10Z",
     "org": {
       "id": 10147338,
       "login": "TIY-Charleston-Front-End-Jan2015",
@@ -91,42 +492,112 @@ var events=
     }
   },
   {
-    "id": "2540172133",
-    "type": "PushEvent",
+    "id": "2545828198",
+    "type": "ForkEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
+      "id": 30031336,
+      "name": "TIY-Charleston-Front-End-Jan2015/DOMperignons",
+      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/DOMperignons"
     },
     "payload": {
-      "push_id": 557730141,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "dc39c02d85f697c261b07fb432bc4b0b4423a352",
-      "before": "2e6b194dcb9695a046bb549ed3a71b5eb2050b09",
-      "commits": [
-        {
-          "sha": "dc39c02d85f697c261b07fb432bc4b0b4423a352",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "fix delete",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/dc39c02d85f697c261b07fb432bc4b0b4423a352"
-        }
-      ]
+      "forkee": {
+        "id": 30037658,
+        "name": "DOMperignons",
+        "full_name": "imee12/DOMperignons",
+        "owner": {
+          "login": "imee12",
+          "id": 10172157,
+          "avatar_url": "https://avatars.githubusercontent.com/u/10172157?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/imee12",
+          "html_url": "https://github.com/imee12",
+          "followers_url": "https://api.github.com/users/imee12/followers",
+          "following_url": "https://api.github.com/users/imee12/following{/other_user}",
+          "gists_url": "https://api.github.com/users/imee12/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/imee12/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/imee12/subscriptions",
+          "organizations_url": "https://api.github.com/users/imee12/orgs",
+          "repos_url": "https://api.github.com/users/imee12/repos",
+          "events_url": "https://api.github.com/users/imee12/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/imee12/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/imee12/DOMperignons",
+        "description": "",
+        "fork": true,
+        "url": "https://api.github.com/repos/imee12/DOMperignons",
+        "forks_url": "https://api.github.com/repos/imee12/DOMperignons/forks",
+        "keys_url": "https://api.github.com/repos/imee12/DOMperignons/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/imee12/DOMperignons/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/imee12/DOMperignons/teams",
+        "hooks_url": "https://api.github.com/repos/imee12/DOMperignons/hooks",
+        "issue_events_url": "https://api.github.com/repos/imee12/DOMperignons/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/imee12/DOMperignons/events",
+        "assignees_url": "https://api.github.com/repos/imee12/DOMperignons/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/imee12/DOMperignons/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/imee12/DOMperignons/tags",
+        "blobs_url": "https://api.github.com/repos/imee12/DOMperignons/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/imee12/DOMperignons/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/imee12/DOMperignons/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/imee12/DOMperignons/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/imee12/DOMperignons/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/imee12/DOMperignons/languages",
+        "stargazers_url": "https://api.github.com/repos/imee12/DOMperignons/stargazers",
+        "contributors_url": "https://api.github.com/repos/imee12/DOMperignons/contributors",
+        "subscribers_url": "https://api.github.com/repos/imee12/DOMperignons/subscribers",
+        "subscription_url": "https://api.github.com/repos/imee12/DOMperignons/subscription",
+        "commits_url": "https://api.github.com/repos/imee12/DOMperignons/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/imee12/DOMperignons/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/imee12/DOMperignons/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/imee12/DOMperignons/issues/comments/{number}",
+        "contents_url": "https://api.github.com/repos/imee12/DOMperignons/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/imee12/DOMperignons/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/imee12/DOMperignons/merges",
+        "archive_url": "https://api.github.com/repos/imee12/DOMperignons/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/imee12/DOMperignons/downloads",
+        "issues_url": "https://api.github.com/repos/imee12/DOMperignons/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/imee12/DOMperignons/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/imee12/DOMperignons/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/imee12/DOMperignons/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/imee12/DOMperignons/labels{/name}",
+        "releases_url": "https://api.github.com/repos/imee12/DOMperignons/releases{/id}",
+        "created_at": "2015-01-29T19:39:49Z",
+        "updated_at": "2015-01-29T19:06:50Z",
+        "pushed_at": "2015-01-29T17:10:35Z",
+        "git_url": "git://github.com/imee12/DOMperignons.git",
+        "ssh_url": "git@github.com:imee12/DOMperignons.git",
+        "clone_url": "https://github.com/imee12/DOMperignons.git",
+        "svn_url": "https://github.com/imee12/DOMperignons",
+        "homepage": null,
+        "size": 0,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_downloads": true,
+        "has_wiki": true,
+        "has_pages": false,
+        "forks_count": 0,
+        "mirror_url": null,
+        "open_issues_count": 0,
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "master",
+        "public": true
+      }
     },
     "public": true,
-    "created_at": "2015-01-27T19:57:48Z",
+    "created_at": "2015-01-29T19:39:49Z",
     "org": {
       "id": 10147338,
       "login": "TIY-Charleston-Front-End-Jan2015",
@@ -136,514 +607,285 @@ var events=
     }
   },
   {
-    "id": "2539657098",
+    "id": "2544015994",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
+      "id": 29936296,
+      "name": "imee12/recreate",
+      "url": "https://api.github.com/repos/imee12/recreate"
     },
     "payload": {
-      "push_id": 557525389,
+      "push_id": 559290550,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "2e6b194dcb9695a046bb549ed3a71b5eb2050b09",
-      "before": "d6ab52a78d6f3ed8fb4c54431ece6e98ee9c2b5c",
+      "head": "dde90183e648a1fa815deaf58b8a655c7f76bbbb",
+      "before": "14285870fe19979997b64623f10f7a9500050739",
       "commits": [
         {
-          "sha": "2e6b194dcb9695a046bb549ed3a71b5eb2050b09",
+          "sha": "dde90183e648a1fa815deaf58b8a655c7f76bbbb",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "added create and delete to bloggy",
+          "message": "broken",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/2e6b194dcb9695a046bb549ed3a71b5eb2050b09"
+          "url": "https://api.github.com/repos/imee12/recreate/commits/dde90183e648a1fa815deaf58b8a655c7f76bbbb"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-27T16:39:08Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-29T04:55:57Z"
   },
   {
-    "id": "2539228872",
+    "id": "2542742058",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29306701,
-      "name": "TIY-Charleston-Front-End-Jan2015/assignments",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 557347769,
+      "push_id": 558785535,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "fed7da21438d3f11f99dd660395a8ca9e45a92e6",
-      "before": "c64c92ff6cc720544bdc102cf9da820bf9d65806",
+      "head": "fe20776eef7bbff490933d9e4269483399db68c2",
+      "before": "e5753ef5670083278ec5965b7f030275a081cef3",
       "commits": [
         {
-          "sha": "fed7da21438d3f11f99dd660395a8ca9e45a92e6",
+          "sha": "fe20776eef7bbff490933d9e4269483399db68c2",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "github assignment",
+          "message": "update not working anymore",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments/commits/fed7da21438d3f11f99dd660395a8ca9e45a92e6"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/fe20776eef7bbff490933d9e4269483399db68c2"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-27T14:00:18Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-28T18:16:28Z"
   },
   {
-    "id": "2537241771",
+    "id": "2542650725",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29306701,
-      "name": "TIY-Charleston-Front-End-Jan2015/assignments",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 556545694,
+      "push_id": 558749064,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "c64c92ff6cc720544bdc102cf9da820bf9d65806",
-      "before": "e2bbc4ce7f8177acc2bf93d1796e698bc8991553",
+      "head": "e5753ef5670083278ec5965b7f030275a081cef3",
+      "before": "34d476f1e5e6e8f4daf47dbcd0e5686c98bc1bd3",
       "commits": [
         {
-          "sha": "c64c92ff6cc720544bdc102cf9da820bf9d65806",
+          "sha": "e5753ef5670083278ec5965b7f030275a081cef3",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "added image req",
+          "message": "updatesbutnotreplaces",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments/commits/c64c92ff6cc720544bdc102cf9da820bf9d65806"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/e5753ef5670083278ec5965b7f030275a081cef3"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-26T19:15:41Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-28T17:41:00Z"
   },
   {
-    "id": "2537237055",
+    "id": "2542439846",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29306701,
-      "name": "TIY-Charleston-Front-End-Jan2015/assignments",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments"
+      "id": 29936296,
+      "name": "imee12/recreate",
+      "url": "https://api.github.com/repos/imee12/recreate"
     },
     "payload": {
-      "push_id": 556543828,
+      "push_id": 558664984,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "e2bbc4ce7f8177acc2bf93d1796e698bc8991553",
-      "before": "fb785d04c505e71b7771e6f6c4077d85bc749fbf",
+      "head": "14285870fe19979997b64623f10f7a9500050739",
+      "before": "16a5feb356fbcd7f9cae7bc3a659718d779b9b9c",
       "commits": [
         {
-          "sha": "e2bbc4ce7f8177acc2bf93d1796e698bc8991553",
+          "sha": "14285870fe19979997b64623f10f7a9500050739",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "added index.html",
+          "message": "profile",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments/commits/e2bbc4ce7f8177acc2bf93d1796e698bc8991553"
+          "url": "https://api.github.com/repos/imee12/recreate/commits/14285870fe19979997b64623f10f7a9500050739"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-26T19:13:46Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-28T16:26:22Z"
   },
   {
-    "id": "2537234501",
+    "id": "2541124505",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29306701,
-      "name": "TIY-Charleston-Front-End-Jan2015/assignments",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments"
+      "id": 29936296,
+      "name": "imee12/recreate",
+      "url": "https://api.github.com/repos/imee12/recreate"
     },
     "payload": {
-      "push_id": 556542869,
+      "push_id": 558109453,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "fb785d04c505e71b7771e6f6c4077d85bc749fbf",
-      "before": "5b68b3b10acf02f80c2509166cd9e539e5440554",
+      "head": "16a5feb356fbcd7f9cae7bc3a659718d779b9b9c",
+      "before": "ab5da0af02210fc656d281e612b994dc96ca73f2",
       "commits": [
         {
-          "sha": "fb785d04c505e71b7771e6f6c4077d85bc749fbf",
+          "sha": "16a5feb356fbcd7f9cae7bc3a659718d779b9b9c",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "added object literal assignment",
+          "message": "Idk",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments/commits/fb785d04c505e71b7771e6f6c4077d85bc749fbf"
+          "url": "https://api.github.com/repos/imee12/recreate/commits/16a5feb356fbcd7f9cae7bc3a659718d779b9b9c"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-26T19:12:43Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-28T04:29:32Z"
   },
   {
-    "id": "2536941154",
+    "id": "2541017971",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 556426961,
+      "push_id": 558065362,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "d6ab52a78d6f3ed8fb4c54431ece6e98ee9c2b5c",
-      "before": "9a6ff50e0bc602cae4ebe20933247f502317c740",
+      "head": "34d476f1e5e6e8f4daf47dbcd0e5686c98bc1bd3",
+      "before": "c55f30fd28de74e47f817dc185c925aa73583cde",
       "commits": [
         {
-          "sha": "d6ab52a78d6f3ed8fb4c54431ece6e98ee9c2b5c",
+          "sha": "34d476f1e5e6e8f4daf47dbcd0e5686c98bc1bd3",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "added bower.json for dependency management",
+          "message": "update",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/d6ab52a78d6f3ed8fb4c54431ece6e98ee9c2b5c"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/34d476f1e5e6e8f4daf47dbcd0e5686c98bc1bd3"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-26T17:15:53Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-28T02:58:16Z"
   },
   {
-    "id": "2536857267",
+    "id": "2540964374",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 556393941,
+      "push_id": 558044094,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "9a6ff50e0bc602cae4ebe20933247f502317c740",
-      "before": "d958b6da67265cce97ff523be203dcb621684331",
+      "head": "c55f30fd28de74e47f817dc185c925aa73583cde",
+      "before": "e56adebbfb182652a8458c80b3a8bb83cdb51ce7",
       "commits": [
         {
-          "sha": "9a6ff50e0bc602cae4ebe20933247f502317c740",
+          "sha": "c55f30fd28de74e47f817dc185c925aa73583cde",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "added obj literal pattern",
+          "message": "toggleupdate",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/9a6ff50e0bc602cae4ebe20933247f502317c740"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/c55f30fd28de74e47f817dc185c925aa73583cde"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-26T16:45:13Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-28T02:19:18Z"
   },
   {
-    "id": "2535347705",
-    "type": "PushEvent",
-    "actor": {
-      "id": 115030,
-      "login": "calweb",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
-    },
-    "repo": {
-      "id": 27841388,
-      "name": "TIY-Charleston-Front-End-Jan2015/notes",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes"
-    },
-    "payload": {
-      "push_id": 555760626,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "1dc84d4431f28e32a0e2a068244677ba76c403eb",
-      "before": "0da342a749cfaf7b90a486fa045d781514e838db",
-      "commits": [
-        {
-          "sha": "1dc84d4431f28e32a0e2a068244677ba76c403eb",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "moving around a few topics",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes/commits/1dc84d4431f28e32a0e2a068244677ba76c403eb"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2015-01-25T22:45:32Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
-  },
-  {
-    "id": "2534539339",
-    "type": "PushEvent",
-    "actor": {
-      "id": 115030,
-      "login": "calweb",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
-    },
-    "repo": {
-      "id": 27841388,
-      "name": "TIY-Charleston-Front-End-Jan2015/notes",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes"
-    },
-    "payload": {
-      "push_id": 555393572,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "0da342a749cfaf7b90a486fa045d781514e838db",
-      "before": "745fda0069efa9675745a92cbf172eabc3a85e44",
-      "commits": [
-        {
-          "sha": "0da342a749cfaf7b90a486fa045d781514e838db",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "added intro jquery notes",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes/commits/0da342a749cfaf7b90a486fa045d781514e838db"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2015-01-25T02:31:54Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
-  },
-  {
-    "id": "2532204742",
-    "type": "PushEvent",
-    "actor": {
-      "id": 115030,
-      "login": "calweb",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
-    },
-    "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
-    },
-    "payload": {
-      "push_id": 554404028,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "d958b6da67265cce97ff523be203dcb621684331",
-      "before": "fc19b5944c75ff460f438b23c9fcfdf237fe701c",
-      "commits": [
-        {
-          "sha": "d958b6da67265cce97ff523be203dcb621684331",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "events demo",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/d958b6da67265cce97ff523be203dcb621684331"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2015-01-23T14:34:06Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
-  },
-  {
-    "id": "2530050105",
-    "type": "PushEvent",
-    "actor": {
-      "id": 115030,
-      "login": "calweb",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
-    },
-    "repo": {
-      "id": 27841388,
-      "name": "TIY-Charleston-Front-End-Jan2015/notes",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes"
-    },
-    "payload": {
-      "push_id": 553521108,
-      "size": 1,
-      "distinct_size": 1,
-      "ref": "refs/heads/master",
-      "head": "745fda0069efa9675745a92cbf172eabc3a85e44",
-      "before": "fbf2e7c2c31c4082481ccfbfb6523e3be07b713f",
-      "commits": [
-        {
-          "sha": "745fda0069efa9675745a92cbf172eabc3a85e44",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "master course outline",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes/commits/745fda0069efa9675745a92cbf172eabc3a85e44"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2015-01-22T17:53:14Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
-  },
-  {
-    "id": "2530023150",
+    "id": "2540425634",
     "type": "CreateEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29691285,
-      "name": "TIY-Charleston-Front-End-Jan2015/jsEvents",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/jsEvents"
+      "id": 29936296,
+      "name": "imee12/recreate",
+      "url": "https://api.github.com/repos/imee12/recreate"
     },
     "payload": {
       "ref": "master",
@@ -653,29 +895,22 @@ var events=
       "pusher_type": "user"
     },
     "public": true,
-    "created_at": "2015-01-22T17:42:32Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-27T21:43:18Z"
   },
   {
-    "id": "2530020635",
+    "id": "2540421802",
     "type": "CreateEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29691285,
-      "name": "TIY-Charleston-Front-End-Jan2015/jsEvents",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/jsEvents"
+      "id": 29936296,
+      "name": "imee12/recreate",
+      "url": "https://api.github.com/repos/imee12/recreate"
     },
     "payload": {
       "ref": null,
@@ -685,1401 +920,588 @@ var events=
       "pusher_type": "user"
     },
     "public": true,
-    "created_at": "2015-01-22T17:41:32Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-27T21:41:44Z"
   },
   {
-    "id": "2528606967",
+    "id": "2540324096",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 27841388,
-      "name": "TIY-Charleston-Front-End-Jan2015/notes",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 552920251,
+      "push_id": 557790569,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "fbf2e7c2c31c4082481ccfbfb6523e3be07b713f",
-      "before": "13fcf04c76a4cbd4aa3ff2f1e88e08034a2f813a",
+      "head": "e56adebbfb182652a8458c80b3a8bb83cdb51ce7",
+      "before": "2b7628ea5a1a2b591a590d238530a1f6c1285199",
       "commits": [
         {
-          "sha": "fbf2e7c2c31c4082481ccfbfb6523e3be07b713f",
+          "sha": "e56adebbfb182652a8458c80b3a8bb83cdb51ce7",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "gah, mkdn",
+          "message": "updatefail",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes/commits/fbf2e7c2c31c4082481ccfbfb6523e3be07b713f"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/e56adebbfb182652a8458c80b3a8bb83cdb51ce7"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-22T05:36:39Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-27T21:01:35Z"
   },
   {
-    "id": "2528604045",
+    "id": "2540035829",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 27841388,
-      "name": "TIY-Charleston-Front-End-Jan2015/notes",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 552919028,
+      "push_id": 557676477,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "13fcf04c76a4cbd4aa3ff2f1e88e08034a2f813a",
-      "before": "8784970ca160c215e45862c44b14d7f92a0ed1b0",
+      "head": "2b7628ea5a1a2b591a590d238530a1f6c1285199",
+      "before": "84fca551444a28b624661ca8a30466afa344951e",
       "commits": [
         {
-          "sha": "13fcf04c76a4cbd4aa3ff2f1e88e08034a2f813a",
+          "sha": "2b7628ea5a1a2b591a590d238530a1f6c1285199",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "md typo",
+          "message": "update form",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes/commits/13fcf04c76a4cbd4aa3ff2f1e88e08034a2f813a"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/2b7628ea5a1a2b591a590d238530a1f6c1285199"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-22T05:33:44Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-27T19:03:59Z"
   },
   {
-    "id": "2528598807",
+    "id": "2539865021",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 27841388,
-      "name": "TIY-Charleston-Front-End-Jan2015/notes",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 552916870,
-      "size": 3,
-      "distinct_size": 3,
-      "ref": "refs/heads/master",
-      "head": "8784970ca160c215e45862c44b14d7f92a0ed1b0",
-      "before": "44848c51cd98956b3c17726447f137c707ed1f3f",
-      "commits": [
-        {
-          "sha": "645f1f14ebf83f0dfb7ab43ea822e4fc9ffd718f",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "some typos",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes/commits/645f1f14ebf83f0dfb7ab43ea822e4fc9ffd718f"
-        },
-        {
-          "sha": "883610f54b87f4d1e817fdfc4b34e9962b74ef5f",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "stub out day 9 to fill my notes",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes/commits/883610f54b87f4d1e817fdfc4b34e9962b74ef5f"
-        },
-        {
-          "sha": "8784970ca160c215e45862c44b14d7f92a0ed1b0",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "added some more to day 8 notes",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes/commits/8784970ca160c215e45862c44b14d7f92a0ed1b0"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2015-01-22T05:28:52Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
-  },
-  {
-    "id": "2528328685",
-    "type": "PushEvent",
-    "actor": {
-      "id": 115030,
-      "login": "calweb",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
-    },
-    "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
-    },
-    "payload": {
-      "push_id": 552811438,
+      "push_id": 557609303,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "fc19b5944c75ff460f438b23c9fcfdf237fe701c",
-      "before": "5ccfaf58c6a7b51ef65b69c5664a17832ae5f230",
+      "head": "84fca551444a28b624661ca8a30466afa344951e",
+      "before": "802ce548d94787f17c561d330a0d7317fcb234cb",
       "commits": [
         {
-          "sha": "fc19b5944c75ff460f438b23c9fcfdf237fe701c",
+          "sha": "84fca551444a28b624661ca8a30466afa344951e",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "some tweaks and dry",
+          "message": "images in template",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/fc19b5944c75ff460f438b23c9fcfdf237fe701c"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/84fca551444a28b624661ca8a30466afa344951e"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-22T01:47:46Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-27T17:56:02Z"
   },
   {
-    "id": "2527662541",
+    "id": "2539849723",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 552554937,
+      "push_id": 557603226,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "5ccfaf58c6a7b51ef65b69c5664a17832ae5f230",
-      "before": "30d9170b7833049c8aaf1fc881cb0b205d53db55",
+      "head": "802ce548d94787f17c561d330a0d7317fcb234cb",
+      "before": "2eaa7969e34e9b65eb9c4e91c33053f0a600bc84",
       "commits": [
         {
-          "sha": "5ccfaf58c6a7b51ef65b69c5664a17832ae5f230",
+          "sha": "802ce548d94787f17c561d330a0d7317fcb234cb",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "example of being DRY",
+          "message": "formworking",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/5ccfaf58c6a7b51ef65b69c5664a17832ae5f230"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/802ce548d94787f17c561d330a0d7317fcb234cb"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-21T20:32:27Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-27T17:50:06Z"
   },
   {
-    "id": "2527171407",
+    "id": "2539786499",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29306701,
-      "name": "TIY-Charleston-Front-End-Jan2015/assignments",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 552365739,
+      "push_id": 557578068,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "5b68b3b10acf02f80c2509166cd9e539e5440554",
-      "before": "3cdb7eff1a3daa7bea3e7de89ac6ec847052113b",
+      "head": "2eaa7969e34e9b65eb9c4e91c33053f0a600bc84",
+      "before": "7870fdf0d271caf785f7cf343acdd7506f42b701",
       "commits": [
         {
-          "sha": "5b68b3b10acf02f80c2509166cd9e539e5440554",
+          "sha": "2eaa7969e34e9b65eb9c4e91c33053f0a600bc84",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "added some resources",
+          "message": "templateworkingkinda",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments/commits/5b68b3b10acf02f80c2509166cd9e539e5440554"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/2eaa7969e34e9b65eb9c4e91c33053f0a600bc84"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-21T17:19:58Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-27T17:25:31Z"
   },
   {
-    "id": "2527164260",
+    "id": "2539685338",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 28877598,
-      "name": "TIY-Charleston-Front-End-Jan2015/demos",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 552362949,
+      "push_id": 557536800,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "30d9170b7833049c8aaf1fc881cb0b205d53db55",
-      "before": "af52cd5a9dd595bfa94b3d47bf783a6cf536b025",
+      "head": "7870fdf0d271caf785f7cf343acdd7506f42b701",
+      "before": "1491d98e6484a65fc733f96c18148cbe00305d2e",
       "commits": [
         {
-          "sha": "30d9170b7833049c8aaf1fc881cb0b205d53db55",
+          "sha": "7870fdf0d271caf785f7cf343acdd7506f42b701",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "added date clock and spa demo",
+          "message": "form made",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/demos/commits/30d9170b7833049c8aaf1fc881cb0b205d53db55"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/7870fdf0d271caf785f7cf343acdd7506f42b701"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-21T17:17:14Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-27T16:48:58Z"
   },
   {
-    "id": "2527155224",
+    "id": "2537319109",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29306701,
-      "name": "TIY-Charleston-Front-End-Jan2015/assignments",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 552359343,
-      "size": 2,
-      "distinct_size": 2,
-      "ref": "refs/heads/master",
-      "head": "3cdb7eff1a3daa7bea3e7de89ac6ec847052113b",
-      "before": "e715f2ed91f5c41526e50e7013654121b0828d3a",
-      "commits": [
-        {
-          "sha": "ea742dfc7f7fe02ffad2f0be7b339e411e6541ca",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "photo album assignment",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments/commits/ea742dfc7f7fe02ffad2f0be7b339e411e6541ca"
-        },
-        {
-          "sha": "3cdb7eff1a3daa7bea3e7de89ac6ec847052113b",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "Merge branch 'master' of github.com:TIY-Charleston-Front-End-Jan2015/assignments",
-          "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/assignments/commits/3cdb7eff1a3daa7bea3e7de89ac6ec847052113b"
-        }
-      ]
-    },
-    "public": true,
-    "created_at": "2015-01-21T17:13:50Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
-  },
-  {
-    "id": "2525960288",
-    "type": "PushEvent",
-    "actor": {
-      "id": 115030,
-      "login": "calweb",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
-    },
-    "repo": {
-      "id": 29411123,
-      "name": "calweb/js-assignments",
-      "url": "https://api.github.com/repos/calweb/js-assignments"
-    },
-    "payload": {
-      "push_id": 551865037,
+      "push_id": 556575658,
       "size": 1,
       "distinct_size": 1,
-      "ref": "refs/heads/photo-album",
-      "head": "2c8f1f1fe1a37b2bdb8b259939edfcc0d25f99c8",
-      "before": "f469150b640e64677e9f5fd925f2a169111735c4",
+      "ref": "refs/heads/master",
+      "head": "1491d98e6484a65fc733f96c18148cbe00305d2e",
+      "before": "81ab7907284e237d8f3e7ffc803f31590857d200",
       "commits": [
         {
-          "sha": "2c8f1f1fe1a37b2bdb8b259939edfcc0d25f99c8",
+          "sha": "1491d98e6484a65fc733f96c18148cbe00305d2e",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "removed unused part of assignment",
+          "message": "Products enclosed",
           "distinct": true,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/2c8f1f1fe1a37b2bdb8b259939edfcc0d25f99c8"
+          "url": "https://api.github.com/repos/imee12/Shop/commits/1491d98e6484a65fc733f96c18148cbe00305d2e"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-21T08:09:28Z"
+    "created_at": "2015-01-26T19:46:25Z"
   },
   {
-    "id": "2525957716",
-    "type": "PullRequestEvent",
-    "actor": {
-      "id": 115030,
-      "login": "calweb",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
-    },
-    "repo": {
-      "id": 28606142,
-      "name": "theironyard/js-assignments",
-      "url": "https://api.github.com/repos/theironyard/js-assignments"
-    },
-    "payload": {
-      "action": "opened",
-      "number": 9,
-      "pull_request": {
-        "url": "https://api.github.com/repos/theironyard/js-assignments/pulls/9",
-        "id": 27741602,
-        "html_url": "https://github.com/theironyard/js-assignments/pull/9",
-        "diff_url": "https://github.com/theironyard/js-assignments/pull/9.diff",
-        "patch_url": "https://github.com/theironyard/js-assignments/pull/9.patch",
-        "issue_url": "https://api.github.com/repos/theironyard/js-assignments/issues/9",
-        "number": 9,
-        "state": "open",
-        "locked": false,
-        "title": "jquery photo album",
-        "user": {
-          "login": "calweb",
-          "id": 115030,
-          "avatar_url": "https://avatars.githubusercontent.com/u/115030?v=3",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/calweb",
-          "html_url": "https://github.com/calweb",
-          "followers_url": "https://api.github.com/users/calweb/followers",
-          "following_url": "https://api.github.com/users/calweb/following{/other_user}",
-          "gists_url": "https://api.github.com/users/calweb/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/calweb/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/calweb/subscriptions",
-          "organizations_url": "https://api.github.com/users/calweb/orgs",
-          "repos_url": "https://api.github.com/users/calweb/repos",
-          "events_url": "https://api.github.com/users/calweb/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/calweb/received_events",
-          "type": "User",
-          "site_admin": false
-        },
-        "body": "",
-        "created_at": "2015-01-21T08:07:28Z",
-        "updated_at": "2015-01-21T08:07:28Z",
-        "closed_at": null,
-        "merged_at": null,
-        "merge_commit_sha": null,
-        "assignee": null,
-        "milestone": null,
-        "commits_url": "https://api.github.com/repos/theironyard/js-assignments/pulls/9/commits",
-        "review_comments_url": "https://api.github.com/repos/theironyard/js-assignments/pulls/9/comments",
-        "review_comment_url": "https://api.github.com/repos/theironyard/js-assignments/pulls/comments/{number}",
-        "comments_url": "https://api.github.com/repos/theironyard/js-assignments/issues/9/comments",
-        "statuses_url": "https://api.github.com/repos/theironyard/js-assignments/statuses/f469150b640e64677e9f5fd925f2a169111735c4",
-        "head": {
-          "label": "calweb:photo-album",
-          "ref": "photo-album",
-          "sha": "f469150b640e64677e9f5fd925f2a169111735c4",
-          "user": {
-            "login": "calweb",
-            "id": 115030,
-            "avatar_url": "https://avatars.githubusercontent.com/u/115030?v=3",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/calweb",
-            "html_url": "https://github.com/calweb",
-            "followers_url": "https://api.github.com/users/calweb/followers",
-            "following_url": "https://api.github.com/users/calweb/following{/other_user}",
-            "gists_url": "https://api.github.com/users/calweb/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/calweb/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/calweb/subscriptions",
-            "organizations_url": "https://api.github.com/users/calweb/orgs",
-            "repos_url": "https://api.github.com/users/calweb/repos",
-            "events_url": "https://api.github.com/users/calweb/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/calweb/received_events",
-            "type": "User",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 29411123,
-            "name": "js-assignments",
-            "full_name": "calweb/js-assignments",
-            "owner": {
-              "login": "calweb",
-              "id": 115030,
-              "avatar_url": "https://avatars.githubusercontent.com/u/115030?v=3",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/calweb",
-              "html_url": "https://github.com/calweb",
-              "followers_url": "https://api.github.com/users/calweb/followers",
-              "following_url": "https://api.github.com/users/calweb/following{/other_user}",
-              "gists_url": "https://api.github.com/users/calweb/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/calweb/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/calweb/subscriptions",
-              "organizations_url": "https://api.github.com/users/calweb/orgs",
-              "repos_url": "https://api.github.com/users/calweb/repos",
-              "events_url": "https://api.github.com/users/calweb/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/calweb/received_events",
-              "type": "User",
-              "site_admin": false
-            },
-            "private": false,
-            "html_url": "https://github.com/calweb/js-assignments",
-            "description": null,
-            "fork": true,
-            "url": "https://api.github.com/repos/calweb/js-assignments",
-            "forks_url": "https://api.github.com/repos/calweb/js-assignments/forks",
-            "keys_url": "https://api.github.com/repos/calweb/js-assignments/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/calweb/js-assignments/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/calweb/js-assignments/teams",
-            "hooks_url": "https://api.github.com/repos/calweb/js-assignments/hooks",
-            "issue_events_url": "https://api.github.com/repos/calweb/js-assignments/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/calweb/js-assignments/events",
-            "assignees_url": "https://api.github.com/repos/calweb/js-assignments/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/calweb/js-assignments/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/calweb/js-assignments/tags",
-            "blobs_url": "https://api.github.com/repos/calweb/js-assignments/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/calweb/js-assignments/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/calweb/js-assignments/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/calweb/js-assignments/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/calweb/js-assignments/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/calweb/js-assignments/languages",
-            "stargazers_url": "https://api.github.com/repos/calweb/js-assignments/stargazers",
-            "contributors_url": "https://api.github.com/repos/calweb/js-assignments/contributors",
-            "subscribers_url": "https://api.github.com/repos/calweb/js-assignments/subscribers",
-            "subscription_url": "https://api.github.com/repos/calweb/js-assignments/subscription",
-            "commits_url": "https://api.github.com/repos/calweb/js-assignments/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/calweb/js-assignments/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/calweb/js-assignments/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/calweb/js-assignments/issues/comments/{number}",
-            "contents_url": "https://api.github.com/repos/calweb/js-assignments/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/calweb/js-assignments/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/calweb/js-assignments/merges",
-            "archive_url": "https://api.github.com/repos/calweb/js-assignments/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/calweb/js-assignments/downloads",
-            "issues_url": "https://api.github.com/repos/calweb/js-assignments/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/calweb/js-assignments/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/calweb/js-assignments/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/calweb/js-assignments/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/calweb/js-assignments/labels{/name}",
-            "releases_url": "https://api.github.com/repos/calweb/js-assignments/releases{/id}",
-            "created_at": "2015-01-18T00:50:57Z",
-            "updated_at": "2015-01-21T08:06:07Z",
-            "pushed_at": "2015-01-21T08:06:06Z",
-            "git_url": "git://github.com/calweb/js-assignments.git",
-            "ssh_url": "git@github.com:calweb/js-assignments.git",
-            "clone_url": "https://github.com/calweb/js-assignments.git",
-            "svn_url": "https://github.com/calweb/js-assignments",
-            "homepage": null,
-            "size": 5200,
-            "stargazers_count": 0,
-            "watchers_count": 0,
-            "language": "JavaScript",
-            "has_issues": false,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "forks_count": 0,
-            "mirror_url": null,
-            "open_issues_count": 0,
-            "forks": 0,
-            "open_issues": 0,
-            "watchers": 0,
-            "default_branch": "master"
-          }
-        },
-        "base": {
-          "label": "theironyard:master",
-          "ref": "master",
-          "sha": "dd37875d8d5683c2451c74042440d8b02e212e9d",
-          "user": {
-            "login": "theironyard",
-            "id": 2248433,
-            "avatar_url": "https://avatars.githubusercontent.com/u/2248433?v=3",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/theironyard",
-            "html_url": "https://github.com/theironyard",
-            "followers_url": "https://api.github.com/users/theironyard/followers",
-            "following_url": "https://api.github.com/users/theironyard/following{/other_user}",
-            "gists_url": "https://api.github.com/users/theironyard/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/theironyard/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/theironyard/subscriptions",
-            "organizations_url": "https://api.github.com/users/theironyard/orgs",
-            "repos_url": "https://api.github.com/users/theironyard/repos",
-            "events_url": "https://api.github.com/users/theironyard/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/theironyard/received_events",
-            "type": "Organization",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 28606142,
-            "name": "js-assignments",
-            "full_name": "theironyard/js-assignments",
-            "owner": {
-              "login": "theironyard",
-              "id": 2248433,
-              "avatar_url": "https://avatars.githubusercontent.com/u/2248433?v=3",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/theironyard",
-              "html_url": "https://github.com/theironyard",
-              "followers_url": "https://api.github.com/users/theironyard/followers",
-              "following_url": "https://api.github.com/users/theironyard/following{/other_user}",
-              "gists_url": "https://api.github.com/users/theironyard/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/theironyard/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/theironyard/subscriptions",
-              "organizations_url": "https://api.github.com/users/theironyard/orgs",
-              "repos_url": "https://api.github.com/users/theironyard/repos",
-              "events_url": "https://api.github.com/users/theironyard/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/theironyard/received_events",
-              "type": "Organization",
-              "site_admin": false
-            },
-            "private": false,
-            "html_url": "https://github.com/theironyard/js-assignments",
-            "description": null,
-            "fork": true,
-            "url": "https://api.github.com/repos/theironyard/js-assignments",
-            "forks_url": "https://api.github.com/repos/theironyard/js-assignments/forks",
-            "keys_url": "https://api.github.com/repos/theironyard/js-assignments/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/theironyard/js-assignments/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/theironyard/js-assignments/teams",
-            "hooks_url": "https://api.github.com/repos/theironyard/js-assignments/hooks",
-            "issue_events_url": "https://api.github.com/repos/theironyard/js-assignments/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/theironyard/js-assignments/events",
-            "assignees_url": "https://api.github.com/repos/theironyard/js-assignments/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/theironyard/js-assignments/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/theironyard/js-assignments/tags",
-            "blobs_url": "https://api.github.com/repos/theironyard/js-assignments/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/theironyard/js-assignments/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/theironyard/js-assignments/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/theironyard/js-assignments/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/theironyard/js-assignments/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/theironyard/js-assignments/languages",
-            "stargazers_url": "https://api.github.com/repos/theironyard/js-assignments/stargazers",
-            "contributors_url": "https://api.github.com/repos/theironyard/js-assignments/contributors",
-            "subscribers_url": "https://api.github.com/repos/theironyard/js-assignments/subscribers",
-            "subscription_url": "https://api.github.com/repos/theironyard/js-assignments/subscription",
-            "commits_url": "https://api.github.com/repos/theironyard/js-assignments/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/theironyard/js-assignments/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/theironyard/js-assignments/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/theironyard/js-assignments/issues/comments/{number}",
-            "contents_url": "https://api.github.com/repos/theironyard/js-assignments/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/theironyard/js-assignments/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/theironyard/js-assignments/merges",
-            "archive_url": "https://api.github.com/repos/theironyard/js-assignments/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/theironyard/js-assignments/downloads",
-            "issues_url": "https://api.github.com/repos/theironyard/js-assignments/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/theironyard/js-assignments/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/theironyard/js-assignments/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/theironyard/js-assignments/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/theironyard/js-assignments/labels{/name}",
-            "releases_url": "https://api.github.com/repos/theironyard/js-assignments/releases{/id}",
-            "created_at": "2014-12-29T20:55:01Z",
-            "updated_at": "2015-01-20T22:39:09Z",
-            "pushed_at": "2015-01-20T22:39:09Z",
-            "git_url": "git://github.com/theironyard/js-assignments.git",
-            "ssh_url": "git@github.com:theironyard/js-assignments.git",
-            "clone_url": "https://github.com/theironyard/js-assignments.git",
-            "svn_url": "https://github.com/theironyard/js-assignments",
-            "homepage": null,
-            "size": 5200,
-            "stargazers_count": 0,
-            "watchers_count": 0,
-            "language": "JavaScript",
-            "has_issues": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "forks_count": 5,
-            "mirror_url": null,
-            "open_issues_count": 2,
-            "forks": 5,
-            "open_issues": 2,
-            "watchers": 0,
-            "default_branch": "master"
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/pulls/9"
-          },
-          "html": {
-            "href": "https://github.com/theironyard/js-assignments/pull/9"
-          },
-          "issue": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/issues/9"
-          },
-          "comments": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/issues/9/comments"
-          },
-          "review_comments": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/pulls/9/comments"
-          },
-          "review_comment": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/pulls/comments/{number}"
-          },
-          "commits": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/pulls/9/commits"
-          },
-          "statuses": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/statuses/f469150b640e64677e9f5fd925f2a169111735c4"
-          }
-        },
-        "merged": false,
-        "mergeable": null,
-        "mergeable_state": "unknown",
-        "merged_by": null,
-        "comments": 0,
-        "review_comments": 0,
-        "commits": 1,
-        "additions": 314,
-        "deletions": 0,
-        "changed_files": 5
-      }
-    },
-    "public": true,
-    "created_at": "2015-01-21T08:07:28Z",
-    "org": {
-      "id": 2248433,
-      "login": "theironyard",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/theironyard",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2248433?"
-    }
-  },
-  {
-    "id": "2525955845",
+    "id": "2537224234",
     "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29411123,
-      "name": "calweb/js-assignments",
-      "url": "https://api.github.com/repos/calweb/js-assignments"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 551863224,
-      "size": 23,
-      "distinct_size": 0,
+      "push_id": 556538916,
+      "size": 1,
+      "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "dd37875d8d5683c2451c74042440d8b02e212e9d",
-      "before": "054b589166f39eba7aaabd853d970def27541981",
+      "head": "81ab7907284e237d8f3e7ffc803f31590857d200",
+      "before": "c3965f6db167d5a0abca9d1c1c08573443437dc5",
       "commits": [
         {
-          "sha": "72d408270bb7a7cf32066f794be3171d55a7f9b0",
+          "sha": "81ab7907284e237d8f3e7ffc803f31590857d200",
           "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "adding a JS assignment - array methods / etc with filter/map/sort",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/72d408270bb7a7cf32066f794be3171d55a7f9b0"
-        },
-        {
-          "sha": "baa4b9f69954cee193949dbc4649bc7a45bcaeab",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "adding another functional assignment... writing own array methods (mirroring _ and es5)",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/baa4b9f69954cee193949dbc4649bc7a45bcaeab"
-        },
-        {
-          "sha": "d2a8a0b5dad09a7d195d60a550d764f9a75aef15",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "adding github profile assignment",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/d2a8a0b5dad09a7d195d60a550d764f9a75aef15"
-        },
-        {
-          "sha": "5f8533420e17de12f8bc12ef577beae1d74c9e8c",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "adding github profile assignment",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/5f8533420e17de12f8bc12ef577beae1d74c9e8c"
-        },
-        {
-          "sha": "5a20e9373917bdbe635614590ec102dcfa2fb01f",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "adding more assignments",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/5a20e9373917bdbe635614590ec102dcfa2fb01f"
-        },
-        {
-          "sha": "7a2b9af5ded7fe254496afb822e0e2a37957b927",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "adding BDD/TDD v1",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/7a2b9af5ded7fe254496afb822e0e2a37957b927"
-        },
-        {
-          "sha": "7710ff376dc0f4bf5c7fa2318317c59b54029f42",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "adding BDD/TDD v1",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/7710ff376dc0f4bf5c7fa2318317c59b54029f42"
-        },
-        {
-          "sha": "b40c26d300174e0d80b835ffc6f9eb591a6732ed",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "ok",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/b40c26d300174e0d80b835ffc6f9eb591a6732ed"
-        },
-        {
-          "sha": "82707b3a47c586329aab994c31a67a2744338c04",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "ok",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/82707b3a47c586329aab994c31a67a2744338c04"
-        },
-        {
-          "sha": "a9223d3b13b04a1fc942ef9d2f16b65dfa2de64b",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "rot13",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/a9223d3b13b04a1fc942ef9d2f16b65dfa2de64b"
-        },
-        {
-          "sha": "1e9a3f1c9d0c3d4873266d7536e3ad800b695fa3",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "rot13",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/1e9a3f1c9d0c3d4873266d7536e3ad800b695fa3"
-        },
-        {
-          "sha": "e9da3774fe8cbc168d105a2abfe2c9a15757a41d",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "cool",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/e9da3774fe8cbc168d105a2abfe2c9a15757a41d"
-        },
-        {
-          "sha": "07e876e8e085a19e9726fbaf1283a814212d08c1",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "updating assignment details",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/07e876e8e085a19e9726fbaf1283a814212d08c1"
-        },
-        {
-          "sha": "076d6a73c0c130cceb8c38f6ec116d45c2e5d38f",
-          "author": {
-            "email": "al.the.x@gmail.com",
-            "name": "David Rogers"
-          },
-          "message": "Just some broken links and simple formatting...\n\nAlso an excuse to open a PR for discussion. :D",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/076d6a73c0c130cceb8c38f6ec116d45c2e5d38f"
-        },
-        {
-          "sha": "b37535a16ac61caf77a0d6cffcb4804477768386",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "Merge pull request #3 from al-the-x/minor-corrections\n\nJust some broken links and simple formatting...",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/b37535a16ac61caf77a0d6cffcb4804477768386"
-        },
-        {
-          "sha": "c9150e985979478e164ae4435401681408f2927a",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "added responsive assignment",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/c9150e985979478e164ae4435401681408f2927a"
-        },
-        {
-          "sha": "bbd9f77989384afac6753fa2cbf32b8367e221db",
-          "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
-          },
-          "message": "added surf and paddle",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/bbd9f77989384afac6753fa2cbf32b8367e221db"
-        },
-        {
-          "sha": "e4a54b840040c1ebbc2cfcfd948b155d6fc040df",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "Merge pull request #6 from calweb/surf-paddle\n\nadded surf and paddle",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/e4a54b840040c1ebbc2cfcfd948b155d6fc040df"
-        },
-        {
-          "sha": "0e07f87c3fc70f415458374bda66eae58c2894fb",
-          "author": {
-            "email": "matthiasak@gmail.com",
-            "name": "Matt Keas"
-          },
-          "message": "Merge pull request #5 from calweb/rwd-assignment\n\nadded responsive assignment",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/0e07f87c3fc70f415458374bda66eae58c2894fb"
-        },
-        {
-          "sha": "16bbf895eb0ef6105b1a1eae9c9d1c1fa7033717",
-          "author": {
-            "email": "kylehill@gmail.com",
-            "name": "Kyle Hill"
-          },
-          "message": "Adds Day 1 HTML/CSS assignment (with hard mode)",
-          "distinct": false,
-          "url": "https://api.github.com/repos/calweb/js-assignments/commits/16bbf895eb0ef6105b1a1eae9c9d1c1fa7033717"
+          "message": "product up",
+          "distinct": true,
+          "url": "https://api.github.com/repos/imee12/Shop/commits/81ab7907284e237d8f3e7ffc803f31590857d200"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-21T08:06:06Z"
+    "created_at": "2015-01-26T19:08:37Z"
   },
   {
-    "id": "2525955243",
+    "id": "2536980761",
     "type": "CreateEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 29411123,
-      "name": "calweb/js-assignments",
-      "url": "https://api.github.com/repos/calweb/js-assignments"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "ref": "photo-album",
+      "ref": "master",
       "ref_type": "branch",
       "master_branch": "master",
-      "description": null,
+      "description": "",
       "pusher_type": "user"
     },
     "public": true,
-    "created_at": "2015-01-21T08:05:41Z"
+    "created_at": "2015-01-26T17:30:17Z"
   },
   {
-    "id": "2525786883",
-    "type": "PushEvent",
+    "id": "2536977836",
+    "type": "CreateEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 27841388,
-      "name": "TIY-Charleston-Front-End-Jan2015/notes",
-      "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes"
+      "id": 29872688,
+      "name": "imee12/Shop",
+      "url": "https://api.github.com/repos/imee12/Shop"
     },
     "payload": {
-      "push_id": 551795129,
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-01-26T17:29:09Z"
+  },
+  {
+    "id": "2535237754",
+    "type": "PushEvent",
+    "actor": {
+      "id": 10172157,
+      "login": "imee12",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
+    },
+    "repo": {
+      "id": 29603177,
+      "name": "imee12/PhotoProject",
+      "url": "https://api.github.com/repos/imee12/PhotoProject"
+    },
+    "payload": {
+      "push_id": 555707634,
       "size": 1,
       "distinct_size": 1,
       "ref": "refs/heads/master",
-      "head": "44848c51cd98956b3c17726447f137c707ed1f3f",
-      "before": "94d8f0a5524ae51b0875aac26f797d93f9d0b798",
+      "head": "c48f11a91fe300cd0bfacca4f65fb07a8a47920c",
+      "before": "9bb33e0cbac364207e9fe107d2f8fcab530858a4",
       "commits": [
         {
-          "sha": "44848c51cd98956b3c17726447f137c707ed1f3f",
+          "sha": "c48f11a91fe300cd0bfacca4f65fb07a8a47920c",
           "author": {
-            "email": "calweb@gmail.com",
-            "name": "Calvin Webster"
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "message": "some day 8 stuff",
+          "message": "Morepics",
           "distinct": true,
-          "url": "https://api.github.com/repos/TIY-Charleston-Front-End-Jan2015/notes/commits/44848c51cd98956b3c17726447f137c707ed1f3f"
+          "url": "https://api.github.com/repos/imee12/PhotoProject/commits/c48f11a91fe300cd0bfacca4f65fb07a8a47920c"
         }
       ]
     },
     "public": true,
-    "created_at": "2015-01-21T05:49:10Z",
-    "org": {
-      "id": 10147338,
-      "login": "TIY-Charleston-Front-End-Jan2015",
-      "gravatar_id": "",
-      "url": "https://api.github.com/orgs/TIY-Charleston-Front-End-Jan2015",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10147338?"
-    }
+    "created_at": "2015-01-25T20:39:06Z"
   },
   {
-    "id": "2525049733",
-    "type": "PullRequestEvent",
+    "id": "2534964031",
+    "type": "PushEvent",
     "actor": {
-      "id": 115030,
-      "login": "calweb",
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/calweb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115030?"
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
     },
     "repo": {
-      "id": 28606142,
-      "name": "theironyard/js-assignments",
-      "url": "https://api.github.com/repos/theironyard/js-assignments"
+      "id": 29693265,
+      "name": "imee12/JQEvents",
+      "url": "https://api.github.com/repos/imee12/JQEvents"
     },
     "payload": {
-      "action": "opened",
-      "number": 6,
-      "pull_request": {
-        "url": "https://api.github.com/repos/theironyard/js-assignments/pulls/6",
-        "id": 27715660,
-        "html_url": "https://github.com/theironyard/js-assignments/pull/6",
-        "diff_url": "https://github.com/theironyard/js-assignments/pull/6.diff",
-        "patch_url": "https://github.com/theironyard/js-assignments/pull/6.patch",
-        "issue_url": "https://api.github.com/repos/theironyard/js-assignments/issues/6",
-        "number": 6,
-        "state": "open",
-        "locked": false,
-        "title": "added surf and paddle",
-        "user": {
-          "login": "calweb",
-          "id": 115030,
-          "avatar_url": "https://avatars.githubusercontent.com/u/115030?v=3",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/calweb",
-          "html_url": "https://github.com/calweb",
-          "followers_url": "https://api.github.com/users/calweb/followers",
-          "following_url": "https://api.github.com/users/calweb/following{/other_user}",
-          "gists_url": "https://api.github.com/users/calweb/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/calweb/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/calweb/subscriptions",
-          "organizations_url": "https://api.github.com/users/calweb/orgs",
-          "repos_url": "https://api.github.com/users/calweb/repos",
-          "events_url": "https://api.github.com/users/calweb/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/calweb/received_events",
-          "type": "User",
-          "site_admin": false
-        },
-        "body": "",
-        "created_at": "2015-01-20T21:50:55Z",
-        "updated_at": "2015-01-20T21:50:55Z",
-        "closed_at": null,
-        "merged_at": null,
-        "merge_commit_sha": null,
-        "assignee": null,
-        "milestone": null,
-        "commits_url": "https://api.github.com/repos/theironyard/js-assignments/pulls/6/commits",
-        "review_comments_url": "https://api.github.com/repos/theironyard/js-assignments/pulls/6/comments",
-        "review_comment_url": "https://api.github.com/repos/theironyard/js-assignments/pulls/comments/{number}",
-        "comments_url": "https://api.github.com/repos/theironyard/js-assignments/issues/6/comments",
-        "statuses_url": "https://api.github.com/repos/theironyard/js-assignments/statuses/bbd9f77989384afac6753fa2cbf32b8367e221db",
-        "head": {
-          "label": "calweb:surf-paddle",
-          "ref": "surf-paddle",
-          "sha": "bbd9f77989384afac6753fa2cbf32b8367e221db",
-          "user": {
-            "login": "calweb",
-            "id": 115030,
-            "avatar_url": "https://avatars.githubusercontent.com/u/115030?v=3",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/calweb",
-            "html_url": "https://github.com/calweb",
-            "followers_url": "https://api.github.com/users/calweb/followers",
-            "following_url": "https://api.github.com/users/calweb/following{/other_user}",
-            "gists_url": "https://api.github.com/users/calweb/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/calweb/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/calweb/subscriptions",
-            "organizations_url": "https://api.github.com/users/calweb/orgs",
-            "repos_url": "https://api.github.com/users/calweb/repos",
-            "events_url": "https://api.github.com/users/calweb/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/calweb/received_events",
-            "type": "User",
-            "site_admin": false
+      "push_id": 555579889,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "13289a32118370cbd175348822d62c5ea417f29b",
+      "before": "a58f0b50ef718417513d4c549621cbc61690c60b",
+      "commits": [
+        {
+          "sha": "13289a32118370cbd175348822d62c5ea417f29b",
+          "author": {
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
           },
-          "repo": {
-            "id": 29411123,
-            "name": "js-assignments",
-            "full_name": "calweb/js-assignments",
-            "owner": {
-              "login": "calweb",
-              "id": 115030,
-              "avatar_url": "https://avatars.githubusercontent.com/u/115030?v=3",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/calweb",
-              "html_url": "https://github.com/calweb",
-              "followers_url": "https://api.github.com/users/calweb/followers",
-              "following_url": "https://api.github.com/users/calweb/following{/other_user}",
-              "gists_url": "https://api.github.com/users/calweb/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/calweb/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/calweb/subscriptions",
-              "organizations_url": "https://api.github.com/users/calweb/orgs",
-              "repos_url": "https://api.github.com/users/calweb/repos",
-              "events_url": "https://api.github.com/users/calweb/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/calweb/received_events",
-              "type": "User",
-              "site_admin": false
-            },
-            "private": false,
-            "html_url": "https://github.com/calweb/js-assignments",
-            "description": null,
-            "fork": true,
-            "url": "https://api.github.com/repos/calweb/js-assignments",
-            "forks_url": "https://api.github.com/repos/calweb/js-assignments/forks",
-            "keys_url": "https://api.github.com/repos/calweb/js-assignments/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/calweb/js-assignments/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/calweb/js-assignments/teams",
-            "hooks_url": "https://api.github.com/repos/calweb/js-assignments/hooks",
-            "issue_events_url": "https://api.github.com/repos/calweb/js-assignments/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/calweb/js-assignments/events",
-            "assignees_url": "https://api.github.com/repos/calweb/js-assignments/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/calweb/js-assignments/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/calweb/js-assignments/tags",
-            "blobs_url": "https://api.github.com/repos/calweb/js-assignments/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/calweb/js-assignments/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/calweb/js-assignments/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/calweb/js-assignments/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/calweb/js-assignments/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/calweb/js-assignments/languages",
-            "stargazers_url": "https://api.github.com/repos/calweb/js-assignments/stargazers",
-            "contributors_url": "https://api.github.com/repos/calweb/js-assignments/contributors",
-            "subscribers_url": "https://api.github.com/repos/calweb/js-assignments/subscribers",
-            "subscription_url": "https://api.github.com/repos/calweb/js-assignments/subscription",
-            "commits_url": "https://api.github.com/repos/calweb/js-assignments/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/calweb/js-assignments/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/calweb/js-assignments/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/calweb/js-assignments/issues/comments/{number}",
-            "contents_url": "https://api.github.com/repos/calweb/js-assignments/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/calweb/js-assignments/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/calweb/js-assignments/merges",
-            "archive_url": "https://api.github.com/repos/calweb/js-assignments/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/calweb/js-assignments/downloads",
-            "issues_url": "https://api.github.com/repos/calweb/js-assignments/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/calweb/js-assignments/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/calweb/js-assignments/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/calweb/js-assignments/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/calweb/js-assignments/labels{/name}",
-            "releases_url": "https://api.github.com/repos/calweb/js-assignments/releases{/id}",
-            "created_at": "2015-01-18T00:50:57Z",
-            "updated_at": "2015-01-18T00:50:57Z",
-            "pushed_at": "2015-01-20T21:50:45Z",
-            "git_url": "git://github.com/calweb/js-assignments.git",
-            "ssh_url": "git@github.com:calweb/js-assignments.git",
-            "clone_url": "https://github.com/calweb/js-assignments.git",
-            "svn_url": "https://github.com/calweb/js-assignments",
-            "homepage": null,
-            "size": 5200,
-            "stargazers_count": 0,
-            "watchers_count": 0,
-            "language": "JavaScript",
-            "has_issues": false,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "forks_count": 0,
-            "mirror_url": null,
-            "open_issues_count": 0,
-            "forks": 0,
-            "open_issues": 0,
-            "watchers": 0,
-            "default_branch": "master"
-          }
-        },
-        "base": {
-          "label": "theironyard:master",
-          "ref": "master",
-          "sha": "b37535a16ac61caf77a0d6cffcb4804477768386",
-          "user": {
-            "login": "theironyard",
-            "id": 2248433,
-            "avatar_url": "https://avatars.githubusercontent.com/u/2248433?v=3",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/theironyard",
-            "html_url": "https://github.com/theironyard",
-            "followers_url": "https://api.github.com/users/theironyard/followers",
-            "following_url": "https://api.github.com/users/theironyard/following{/other_user}",
-            "gists_url": "https://api.github.com/users/theironyard/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/theironyard/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/theironyard/subscriptions",
-            "organizations_url": "https://api.github.com/users/theironyard/orgs",
-            "repos_url": "https://api.github.com/users/theironyard/repos",
-            "events_url": "https://api.github.com/users/theironyard/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/theironyard/received_events",
-            "type": "Organization",
-            "site_admin": false
-          },
-          "repo": {
-            "id": 28606142,
-            "name": "js-assignments",
-            "full_name": "theironyard/js-assignments",
-            "owner": {
-              "login": "theironyard",
-              "id": 2248433,
-              "avatar_url": "https://avatars.githubusercontent.com/u/2248433?v=3",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/theironyard",
-              "html_url": "https://github.com/theironyard",
-              "followers_url": "https://api.github.com/users/theironyard/followers",
-              "following_url": "https://api.github.com/users/theironyard/following{/other_user}",
-              "gists_url": "https://api.github.com/users/theironyard/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/theironyard/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/theironyard/subscriptions",
-              "organizations_url": "https://api.github.com/users/theironyard/orgs",
-              "repos_url": "https://api.github.com/users/theironyard/repos",
-              "events_url": "https://api.github.com/users/theironyard/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/theironyard/received_events",
-              "type": "Organization",
-              "site_admin": false
-            },
-            "private": false,
-            "html_url": "https://github.com/theironyard/js-assignments",
-            "description": null,
-            "fork": true,
-            "url": "https://api.github.com/repos/theironyard/js-assignments",
-            "forks_url": "https://api.github.com/repos/theironyard/js-assignments/forks",
-            "keys_url": "https://api.github.com/repos/theironyard/js-assignments/keys{/key_id}",
-            "collaborators_url": "https://api.github.com/repos/theironyard/js-assignments/collaborators{/collaborator}",
-            "teams_url": "https://api.github.com/repos/theironyard/js-assignments/teams",
-            "hooks_url": "https://api.github.com/repos/theironyard/js-assignments/hooks",
-            "issue_events_url": "https://api.github.com/repos/theironyard/js-assignments/issues/events{/number}",
-            "events_url": "https://api.github.com/repos/theironyard/js-assignments/events",
-            "assignees_url": "https://api.github.com/repos/theironyard/js-assignments/assignees{/user}",
-            "branches_url": "https://api.github.com/repos/theironyard/js-assignments/branches{/branch}",
-            "tags_url": "https://api.github.com/repos/theironyard/js-assignments/tags",
-            "blobs_url": "https://api.github.com/repos/theironyard/js-assignments/git/blobs{/sha}",
-            "git_tags_url": "https://api.github.com/repos/theironyard/js-assignments/git/tags{/sha}",
-            "git_refs_url": "https://api.github.com/repos/theironyard/js-assignments/git/refs{/sha}",
-            "trees_url": "https://api.github.com/repos/theironyard/js-assignments/git/trees{/sha}",
-            "statuses_url": "https://api.github.com/repos/theironyard/js-assignments/statuses/{sha}",
-            "languages_url": "https://api.github.com/repos/theironyard/js-assignments/languages",
-            "stargazers_url": "https://api.github.com/repos/theironyard/js-assignments/stargazers",
-            "contributors_url": "https://api.github.com/repos/theironyard/js-assignments/contributors",
-            "subscribers_url": "https://api.github.com/repos/theironyard/js-assignments/subscribers",
-            "subscription_url": "https://api.github.com/repos/theironyard/js-assignments/subscription",
-            "commits_url": "https://api.github.com/repos/theironyard/js-assignments/commits{/sha}",
-            "git_commits_url": "https://api.github.com/repos/theironyard/js-assignments/git/commits{/sha}",
-            "comments_url": "https://api.github.com/repos/theironyard/js-assignments/comments{/number}",
-            "issue_comment_url": "https://api.github.com/repos/theironyard/js-assignments/issues/comments/{number}",
-            "contents_url": "https://api.github.com/repos/theironyard/js-assignments/contents/{+path}",
-            "compare_url": "https://api.github.com/repos/theironyard/js-assignments/compare/{base}...{head}",
-            "merges_url": "https://api.github.com/repos/theironyard/js-assignments/merges",
-            "archive_url": "https://api.github.com/repos/theironyard/js-assignments/{archive_format}{/ref}",
-            "downloads_url": "https://api.github.com/repos/theironyard/js-assignments/downloads",
-            "issues_url": "https://api.github.com/repos/theironyard/js-assignments/issues{/number}",
-            "pulls_url": "https://api.github.com/repos/theironyard/js-assignments/pulls{/number}",
-            "milestones_url": "https://api.github.com/repos/theironyard/js-assignments/milestones{/number}",
-            "notifications_url": "https://api.github.com/repos/theironyard/js-assignments/notifications{?since,all,participating}",
-            "labels_url": "https://api.github.com/repos/theironyard/js-assignments/labels{/name}",
-            "releases_url": "https://api.github.com/repos/theironyard/js-assignments/releases{/id}",
-            "created_at": "2014-12-29T20:55:01Z",
-            "updated_at": "2015-01-19T20:11:35Z",
-            "pushed_at": "2015-01-19T20:11:35Z",
-            "git_url": "git://github.com/theironyard/js-assignments.git",
-            "ssh_url": "git@github.com:theironyard/js-assignments.git",
-            "clone_url": "https://github.com/theironyard/js-assignments.git",
-            "svn_url": "https://github.com/theironyard/js-assignments",
-            "homepage": null,
-            "size": 5200,
-            "stargazers_count": 0,
-            "watchers_count": 0,
-            "language": "JavaScript",
-            "has_issues": true,
-            "has_downloads": true,
-            "has_wiki": true,
-            "has_pages": false,
-            "forks_count": 4,
-            "mirror_url": null,
-            "open_issues_count": 3,
-            "forks": 4,
-            "open_issues": 3,
-            "watchers": 0,
-            "default_branch": "master"
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/pulls/6"
-          },
-          "html": {
-            "href": "https://github.com/theironyard/js-assignments/pull/6"
-          },
-          "issue": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/issues/6"
-          },
-          "comments": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/issues/6/comments"
-          },
-          "review_comments": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/pulls/6/comments"
-          },
-          "review_comment": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/pulls/comments/{number}"
-          },
-          "commits": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/pulls/6/commits"
-          },
-          "statuses": {
-            "href": "https://api.github.com/repos/theironyard/js-assignments/statuses/bbd9f77989384afac6753fa2cbf32b8367e221db"
-          }
-        },
-        "merged": false,
-        "mergeable": null,
-        "mergeable_state": "unknown",
-        "merged_by": null,
-        "comments": 0,
-        "review_comments": 0,
-        "commits": 1,
-        "additions": 70,
-        "deletions": 0,
-        "changed_files": 6
-      }
+          "message": "bigger dance",
+          "distinct": true,
+          "url": "https://api.github.com/repos/imee12/JQEvents/commits/13289a32118370cbd175348822d62c5ea417f29b"
+        }
+      ]
     },
     "public": true,
-    "created_at": "2015-01-20T21:51:02Z",
-    "org": {
-      "id": 2248433,
-      "login": "theironyard",
+    "created_at": "2015-01-25T14:59:53Z"
+  },
+  {
+    "id": "2534669420",
+    "type": "PushEvent",
+    "actor": {
+      "id": 10172157,
+      "login": "imee12",
       "gravatar_id": "",
-      "url": "https://api.github.com/orgs/theironyard",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2248433?"
-    }
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
+    },
+    "repo": {
+      "id": 29693265,
+      "name": "imee12/JQEvents",
+      "url": "https://api.github.com/repos/imee12/JQEvents"
+    },
+    "payload": {
+      "push_id": 555451407,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "a58f0b50ef718417513d4c549621cbc61690c60b",
+      "before": "5f9c076f5ef2b5755355b1f18880e41cdc245c77",
+      "commits": [
+        {
+          "sha": "a58f0b50ef718417513d4c549621cbc61690c60b",
+          "author": {
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
+          },
+          "message": "HKdances",
+          "distinct": true,
+          "url": "https://api.github.com/repos/imee12/JQEvents/commits/a58f0b50ef718417513d4c549621cbc61690c60b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T06:34:00Z"
+  },
+  {
+    "id": "2534626496",
+    "type": "PushEvent",
+    "actor": {
+      "id": 10172157,
+      "login": "imee12",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
+    },
+    "repo": {
+      "id": 29693265,
+      "name": "imee12/JQEvents",
+      "url": "https://api.github.com/repos/imee12/JQEvents"
+    },
+    "payload": {
+      "push_id": 555432992,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "5f9c076f5ef2b5755355b1f18880e41cdc245c77",
+      "before": "3c45c71208346a083ea6d1ba85f1ee0c1253ffd8",
+      "commits": [
+        {
+          "sha": "5f9c076f5ef2b5755355b1f18880e41cdc245c77",
+          "author": {
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
+          },
+          "message": "dance",
+          "distinct": true,
+          "url": "https://api.github.com/repos/imee12/JQEvents/commits/5f9c076f5ef2b5755355b1f18880e41cdc245c77"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T05:12:25Z"
+  },
+  {
+    "id": "2534588358",
+    "type": "PushEvent",
+    "actor": {
+      "id": 10172157,
+      "login": "imee12",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
+    },
+    "repo": {
+      "id": 29693265,
+      "name": "imee12/JQEvents",
+      "url": "https://api.github.com/repos/imee12/JQEvents"
+    },
+    "payload": {
+      "push_id": 555415739,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "3c45c71208346a083ea6d1ba85f1ee0c1253ffd8",
+      "before": "440355c882aaf1c6728197dbe86af833c3de41b9",
+      "commits": [
+        {
+          "sha": "3c45c71208346a083ea6d1ba85f1ee0c1253ffd8",
+          "author": {
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
+          },
+          "message": "HKsprite",
+          "distinct": true,
+          "url": "https://api.github.com/repos/imee12/JQEvents/commits/3c45c71208346a083ea6d1ba85f1ee0c1253ffd8"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T04:00:46Z"
+  },
+  {
+    "id": "2534522186",
+    "type": "PushEvent",
+    "actor": {
+      "id": 10172157,
+      "login": "imee12",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/imee12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172157?"
+    },
+    "repo": {
+      "id": 29603177,
+      "name": "imee12/PhotoProject",
+      "url": "https://api.github.com/repos/imee12/PhotoProject"
+    },
+    "payload": {
+      "push_id": 555385061,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "9bb33e0cbac364207e9fe107d2f8fcab530858a4",
+      "before": "9102e93d801fe37fd6fab2207dea8899f47b8118",
+      "commits": [
+        {
+          "sha": "9bb33e0cbac364207e9fe107d2f8fcab530858a4",
+          "author": {
+            "email": "imeetwelve@gmail.com",
+            "name": "Imee Cuison"
+          },
+          "message": "audioadded",
+          "distinct": true,
+          "url": "https://api.github.com/repos/imee12/PhotoProject/commits/9bb33e0cbac364207e9fe107d2f8fcab530858a4"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T02:00:08Z"
   }
 ]

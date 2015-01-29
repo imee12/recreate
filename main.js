@@ -8,6 +8,7 @@ init: function() {
 initStyling: function() {
     githubPage.profile();
     githubPage.renderRepos();
+    githubPage.renderActivity();
 
     console.log("called init styling");
   },
@@ -29,11 +30,10 @@ renderRepos: function () {
 console.log(html);
 },
 
-
-renderAllRepos: function (repoArray) {
-
-  _.each(repoArray, githubPage.renderRepos);
+renderActivity: function () {
+  var activityTmpl = _.template(templates.activity)
 }
+
 
 
 

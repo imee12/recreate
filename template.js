@@ -32,3 +32,21 @@ templates.repos = [
 
 
 ].join("");
+
+templates.activity = [
+"<div class = 'contribs'>",
+
+"<h3><%= name %></h3>",
+"<p><%= description  %></p>",
+"<p><%= updated_at %></p>",
+
+"<div class='repoStatsLine'>",
+"<span><%= language %></span>",
+"<span class='octicon octicon-star'></span>",
+"<span><%= stargazers_count %></span>",
+"<span class='octicon octicon-git-branch'></span>",
+"<span><%= forks_count %></span>",
+"</div>"
+
+
+].join("");
