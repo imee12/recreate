@@ -1,21 +1,34 @@
 var templates = {};
 
-//templates.sidebar = [
-//  "<img src=<%= image %>/>",
-//  "<h2><%= user.name %></h2>",
-//  "<h3><%= user.login %<>/h3>",
-//  "<h4><%= user.created_at %</h4>",
+templates.profile = [
+  "<img src = <%= avatar_url %> width='200' height='200'>",
+  "<h2> <%= name %> </h2>",
+  "<h3> <%= login %> </h3>",
+  "<h4> <%= created_at %> </h4>",
+  "<p><span class='octicon octicon-location'></span><%= location %></p>",
+  "<p><span class='octicon octicon-clock'></span><span>Joined on </span><%= created_at %></p>",
+  "<div class='userStats'>",
+  "<a href ='<%= followers %>'><span>Followers</span></a>",
+  "<a href ='<%= starred_url %>'><span>Starred</span></a>",
+  "<a href = '<%= following %>'><span>Following</span></a>",
+  "</div>",
 
-//].join("");
+].join("");
 
 templates.repos = [
-  "<div class='contribs'>",
-  //"<section>",
+"<div class = 'contribs'>",
 
-  "<p> <%= name %></p>",
-  "<p> <%= description %></p>",
-  "<p> <%= url %></p>",
+"<h3><%= name %></h3>",
+"<p><%= description  %></p>",
+"<p><%= updated_at %></p>",
 
-  //"</section>"
-  "</div>"
-   ].join("");
+"<div class='repoStatsLine'>",
+"<span><%= language %></span>",
+"<span class='octicon octicon-star'></span>",
+"<span><%= stargazers_count %></span>",
+"<span class='octicon octicon-git-branch'></span>",
+"<span><%= forks_count %></span>",
+"</div>"
+
+
+].join("");
