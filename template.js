@@ -1,3 +1,5 @@
+var templates = {};
+
 //templates.sidebar = [
 //  "<img src=<%= image %>/>",
 //  "<h2><%= user.name %></h2>",
@@ -5,3 +7,15 @@
 //  "<h4><%= user.created_at %</h4>",
 
 //].join("");
+
+templates.repos = [
+  "<div class='contribs'>",
+  //"<section>",
+
+  "<p> <%= name %></p>",
+  "<p> <%= description %></p>",
+  "<p> <%= url %></p>",
+
+  //"</section>"
+  "</div>"
+   ].join("");
